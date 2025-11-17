@@ -1,2 +1,2 @@
-# CS335-Group8-Project
-CS335-Group8-Project
+# Econ-Group8-Project
+Econ-Group8-Project
